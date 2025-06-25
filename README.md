@@ -30,7 +30,7 @@
 
   - **Type:** ``Prometheus``
 
-  - **Prometheus server URL:** http://prometheus.server:9090
+  - **Prometheus server URL:** ``http://prometheus.server:9090``
 
   - **Authentication:** ``No Authentication``
 
